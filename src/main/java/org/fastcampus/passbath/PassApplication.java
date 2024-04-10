@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PassApplication {
 
     public static void main(String[] args) {
+        //주석
         SpringApplication.run(PassApplication.class, args);
     }
 
